@@ -1,6 +1,5 @@
-# EMFN
-Equivariant Multi-scale Fusion Network for 3D Multi-body System Modeling
-
+# FMN
+Learning Feature-enhanced Multi-scale Network for SE(3)-Equivariant Motion Prediction
 
 Comming Soon
 
