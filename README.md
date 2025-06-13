@@ -6,7 +6,7 @@ In this work, we propose the Feature-enhanced Multi-scale Network (FMN) to predi
 
 ## Overview
 
-<img src='images/pipeline.pdf'> 
+<img src='images/pipeline.png'> 
 
 
 ## Dependencies
